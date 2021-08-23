@@ -4,7 +4,7 @@
 
 # MySQl 架构
 
-![img](https://github.com/ChallengerL/Notes/edit/main/%E7%A7%8B%E6%8B%9B/pictures/0d2070e8f84c4801adbfa03bda1f98d9.png)
+![img](https://github.com/ChallengerL/Notes/edit/main/秋招/pictures/0d2070e8f84c4801adbfa03bda1f98d9.png)
 
 ## 一、查询语句执行过程
 
