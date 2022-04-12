@@ -51,4 +51,4 @@
 
 *   [Docker容器](https://www.wolai.com/f5iSknJKhMVCEedfMdXqnm "Docker容器")
 
-*   [Kubernetes](
+*   [Kubernetes](https://www.wolai.com/ja2qNgDQzxD9xxiDymEXcq "Kubernetes")
